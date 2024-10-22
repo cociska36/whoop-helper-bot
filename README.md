@@ -1,1 +1,0 @@
-# whoop-helper-bot
